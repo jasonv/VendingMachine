@@ -1,0 +1,26 @@
+Vending Machine Simulator
+-------------------------
+
+Requirements:
+- Java 1.6
+- Eclipse
+
+To load the project into your workspace.
+1) Open eclipse
+2) File -> Import...
+3) Expand General
+4) Select "Existing Projects into Workspace"
+5) For the "Select root directory:" select VendingMachine folder.
+6) Click finish.
+
+To run test
+1) Expand the VM project folder.
+2) Right click the test folder.
+3) Select Run As -> JUnit Test
+
+To run applet 
+1) Expand the VendingMachine project folder.
+2) Expand the src folder.
+3) Expand down to com.jasonv.vendingmachine
+4) Right click on VendingMachineApplet.java
+5) Select Run As -> Java Applet
